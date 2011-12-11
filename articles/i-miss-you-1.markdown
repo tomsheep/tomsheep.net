@@ -1,7 +1,6 @@
 Title: 只是当时已惘然(1)
 Author: Kang Liu
 Date: Fri Jul 01 2011 18:33:00 GMT+0800 (China Standard Time)
-Node: v0.4.12
 
 以下来自我的微博。真诚是不是一定需要矫情？多半不是。可惜我境界不够，为了真诚，我宁愿变得矫情。
 

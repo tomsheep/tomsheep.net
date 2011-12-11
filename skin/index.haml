@@ -22,7 +22,7 @@
         %li
           %a{href: "/" + article.name}&=article.title
           &=" by " + article.author.name
-          :if article.node
-            %span.versiontag&= article.node
+          :if article.lang
+            %span.versiontag&= article.lang
 
 

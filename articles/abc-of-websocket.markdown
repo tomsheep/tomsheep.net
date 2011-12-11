@@ -1,7 +1,7 @@
 Title: ABC of WebSocket
 Author: Kang Liu
 Date: Sun May 29 2011 01:11:00 GMT+0800 (China Standard Time)
-Node: v0.4.12
+Lang: JS, Python
 
 今天去参加Shaanxi版聚，蛋疼的桥五。坐在车上翻了会html5的postmessage和websocket，前者我曾经接触过，可以用来实现窗口间的跨域通信。发觉Websocket还是个挺简单高效的协议，版聚回来后尝试上手试验了一下。Websocket是为了解决web环境下客户端和服务器端建立全双工连接而引入的规范，最新的协议版本号是76，在这里可以看到。
 

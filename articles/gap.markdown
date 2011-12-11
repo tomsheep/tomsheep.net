@@ -1,7 +1,7 @@
 Title: 差距
 Author: Kang Liu
 Date: Tue Aug 09 2011 23:40:00 GMT+0800 (China Standard Time)
-Node: v0.4.12
+Lang: C++
 
 我一直觉得，好的程序员，只消一两行代码，便足以显露锋芒。好像内功深厚的武林高手，举手投足间就能让人感觉到强大的气场。昨天V8源码里瞥到一段，顿时心中一荡，楞没看懂：
 

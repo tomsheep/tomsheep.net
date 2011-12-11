@@ -1,7 +1,7 @@
 Title: 我所知道的Server Push
 Author: Kang Liu
 Date: Fri May 27 2011 03:55:00 GMT+0800 (China Standard Time)
-Node: v0.4.12
+Lang: HTML5, JS
 
 由于大一时web课上得实在纠结，对于web技术一直存在抗拒心理，导致常年处于白痴状态，半年前去SAP实习算是为我二次启蒙，让我发觉这个领域相当广阔大有可为实在是知识青年上山下乡接受再教育的不二之选。最近几天正好接触到服务器“推”，总结一下相关技术：
 

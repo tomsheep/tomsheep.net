@@ -1,8 +1,7 @@
 Title: About
 Author: Kang Liu
 Date: Mon Sept 12 1988 23:15:00 GMT+0800 (China Standard Time)
-Node: v0.4.12
-categories: test
+categories: about
 
 ## Brief Introduction
 [Kang Liu][0], a.k.a. tomsheep, is a developer from [Yahoo!][1]. With background as a system programmer during college days in [Fudan][2], Kang turned to front-end technologies after joining Yahoo!. Now Kang is working mostly on HTML5/Javascript and browser implementations, with strong interest in Linux/Unix, Python and NodeJS as well.

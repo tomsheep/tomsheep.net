@@ -1,7 +1,7 @@
 Title: 从一个bug看Linux启动原理
 Author: Kang Liu
 Date: Wen Jun 8 2011 18:53:00 GMT+0800 (China Standard Time)
-Node: v0.4.12
+Lang: Linux
 
 磨合久了就会产生默契。非但人是这样，机器也是如此。前几天刚刚复习过Linux的开机原理，今天我的ubuntu就很配合地卡死在了启动阶段，经过观察分析，活学活用战无不胜的爱谁谁的思想，成功排除了bug，幸甚至哉，歌以咏志。
 

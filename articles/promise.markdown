@@ -1,7 +1,6 @@
 Title: PPI PROMISE成员
 Author: Kang Liu
 Date: Sat Nov 07 2009 00:10:51 GMT+0800 (China Standard Time)
-Node: v0.4.12
 
 PROMISE是复旦大学并行处理研究所（以后恐怕是上海交大并行处理研究所？）的系统组。当年因为这个帖子后来成为Arch_Compiler的版主。每次再看这几幅对联，都有种沧桑的感觉。
 

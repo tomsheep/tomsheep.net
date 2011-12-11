@@ -1,7 +1,6 @@
 Title: 佛祖在十三号线
 Author: Kang Liu
 Date: Sat Aug 06 2011 12:35:00 GMT+0800 (China Standard Time)
-Node: v0.4.12
 
 来京半个多月，被挤成了孙子。
 
