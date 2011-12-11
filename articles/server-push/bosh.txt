@@ -1,0 +1,9 @@
+﻿     Server
+        |
+        |  [unwrapped data streams]
+        |
+     HTTP CM
+        |
+        |  [HTTP + <body/> wrapper]
+        |
+      Client

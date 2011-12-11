@@ -1,0 +1,24 @@
+<html>
+    <head>
+    </head>
+    <body>
+        <div id="log"></div>
+        <script>
+        function log(msg){
+            document.getElementById("log").innerHTML += msg+"<br/>";
+        }
+
+        var ws = new WebSocket("ws://localhost:1234/");
+        ws.onopen = function() {
+            log("open");
+            ws.send("Ho do you do?");
+        };
+        ws.onmessage = function (e) {
+            log("msg:"+e.data);
+        };
+        ws.onclose = function() {
+            log("close")
+        };
+        </script>
+    </body>
+</html>

@@ -1,0 +1,7 @@
+HTTP/1.1 101 Web Socket Protocol Handshake
+Connection:Upgrade
+Sec-WebSocket-Location:ws://localhost:1234/
+Sec-WebSocket-Origin:http://localhost
+Upgrade:WebSocket
+
+(Challenge Response):B3:C4:72:E5:9C:37:B1:68:09:92:6A:A3:85:A0:00:31

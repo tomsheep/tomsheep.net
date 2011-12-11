@@ -1,0 +1,9 @@
+﻿GET / HTTP/1.1
+Connection:Upgrade
+Host:localhost:1234
+Origin:http://localhost
+Sec-WebSocket-Key1:119A4 0i9K5sM  7 00
+Sec-WebSocket-Key2:3 hVC   s83 Q6 942}0 +, 8
+Upgrade:WebSocket
+
+(Key3):6E:73:96:F2:60:7A:8F:09
