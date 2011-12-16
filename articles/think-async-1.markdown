@@ -182,7 +182,7 @@ Lang: JS
 
 [flow-js]: https://github.com/willconant/flow-js
 [老赵]: http://blog.zhaojie.me
-[Jscex]: https://github.com/JeffreyZhao/jscex
+[Jscex]: https://github.com/Jeffreyzhao/jscex
 [Step]: https://github.com/creationix/experiments/blob/master/step.js
 [conductor]: http://github.com/creationix/conductor
 [promise]: https://github.com/kriszyp/node-promise
