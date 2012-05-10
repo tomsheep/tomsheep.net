@@ -2,6 +2,8 @@
 
 tomsheep.net is a personal blog created by [Kang Liu][]. The purpose of this blog is to record personal experience of life and work. [RSS(订阅)](http://rss.tomsheep.net)
 
+You can also find Kang's notes in [屌丝的自我修养](http://notes.tomsheep.net/).
+
 This site is powered by [Wheat][], a git based blogging engine written in [node.JS][]. The template of this blog comes from [howtonode.org][]
 
 
