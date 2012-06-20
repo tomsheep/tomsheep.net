@@ -44,7 +44,7 @@ function check_url(url) {
 function ping(ts, url) {
   console.log("start pinging");
   check_url(url);
-  //setInterval(check_url, ts, url);
+  setInterval(check_url, ts, url);
 }
 
 //ping(3000, "http://localhost:8080/123");
