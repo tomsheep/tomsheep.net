@@ -1,0 +1,13 @@
+{
+  "author": "Kang Liu <tomsheep.cn@gmail.com> (http://tomsheep.net/)",
+  "name": "blog_tools",
+  "version": "0.0.1",
+  "homepage": "http://tomsheep.net/",
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "dependencies": {
+    "emailjs": "x.x.x"
+  },
+  "devDependencies": {}
+}
